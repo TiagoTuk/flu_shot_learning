@@ -1,0 +1,27 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+.pyenv/
+__pycache__/
+
+# Jupyter e VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Dados e saídas temporárias
+data/
+*.csv
+*.xlsx
+*.pkl
+*.zip
+*.json
+
+# Logs e cache
+*.log
+*.tmp
+*.cache/
+*.DS_Store
+
+# Configurações locais
+*.env
