@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/TiagoTuk/flu_shot_learning/blob/main/img/capa_git.png?raw=true" width="100%">
+</p>
+
+
 # 🦠 Flu Shot Learning — Prevendo Vacinação H1N1 e Sazonal  
 **Projeto de Machine Learning | Competição DivenData**
 
